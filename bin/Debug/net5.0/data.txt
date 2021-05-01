@@ -1,612 +1,75 @@
-
- <!doctype html>
-<html lang="en">
-
-<head><link rel="stylesheet" href="https://binary-studio.com/?w3tc_minify=34613.default.include.be434e.css" media="all" />
-
-	<meta charset="UTF-8">
-	<meta name="viewport" content="minimal-ui, width=device-width, initial-scale=1">
-	<link rel="icon" href="//d3ot0t2g92r1ra.cloudfront.net/img/favicon/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="//d3ot0t2g92r1ra.cloudfront.net/img/favicon/favicon.ico" type="image/x-icon">
-	<link rel="apple-touch-icon" href="//d3ot0t2g92r1ra.cloudfront.net/img/favicon/favicon.ico">
-	<link rel="preconnect" href="https://pipedream.wistia.com">
-	<link rel="preconnect" href="https://px.ads.linkedin.com">
-	<link rel="preconnect" href="https://p.adsymptotic.com">
-	<link rel="preconnect" href="https://www.facebook.com">
-	<link rel="preconnect" href="https://embedwistia-a.akamaihd.net">
-	<link rel="preconnect" href="https://connect.facebook.net">
-	<link rel="preconnect" href="https://www.google-analytics.com">
-    <link rel="apple-touch-icon" href="images/icons/icon-192x192.png">
-    <link rel="manifest" href="/manifest.json">
-    <meta name="theme-color" content="#ff9a00">
-	<title>
-		Premium Software Development Company | Binary Studio	</title>
-	<script>
-		(function (i, s, o, g, r, a, m) {i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)})(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga'); ga('create', 'UA-25691302-1', 'auto'); ga('send', 'pageview');
-	</script>
-	<!-- Facebook Pixel Code -->
-	<!-- DO NOT MODIFY -->
-	<!-- End Facebook Pixel Code -->
-	<script>document.cookie='resolution='+Math.max(screen.width,screen.height)+'; path=/';</script>
-<!-- This site is optimized with the Yoast SEO plugin v13.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
-<meta name="description" content="Boutique software development company. We build world class software solutions for tech companies. Expert at developing complex web and desktop applications"/>
-<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1"/>
-<link rel="canonical" href="https://binary-studio.com/" />
-<meta property="og:locale" content="en_US" />
-<meta property="og:type" content="website" />
-<meta property="og:title" content="Premium Software Development Company | Binary Studio" />
-<meta property="og:description" content="Boutique software development company. We build world class software solutions for tech companies. Expert at developing complex web and desktop applications" />
-<meta property="og:url" content="https://binary-studio.com/" />
-<meta property="og:site_name" content="Offshore Custom Software Development Company | Binary Studio, Ukraine" />
-<script type='application/ld+json' class='yoast-schema-graph yoast-schema-graph--main'>{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://binary-studio.com/#website","url":"https://binary-studio.com/","name":"Offshore Custom Software Development Company | Binary Studio, Ukraine","inLanguage":"en-US","description":"Looking for software developers?&lt;br /&gt;\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0Set up a Dedicated Development Team with us!","potentialAction":[{"@type":"SearchAction","target":"https://binary-studio.com/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"WebPage","@id":"https://binary-studio.com/#webpage","url":"https://binary-studio.com/","name":"Premium Software Development Company | Binary Studio","isPartOf":{"@id":"https://binary-studio.com/#website"},"inLanguage":"en-US","datePublished":"2014-11-17T11:52:13+00:00","dateModified":"2017-03-17T16:01:53+00:00","description":"Boutique software development company. We build world class software solutions for tech companies. Expert at developing complex web and desktop applications","potentialAction":[{"@type":"ReadAction","target":["https://binary-studio.com/"]}]}]}</script>
-<!-- / Yoast SEO plugin. -->
-
-<link rel='dns-prefetch' href='//binary-studio.com' />
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='home_welcome_anim-css'  href='https://binary-studio.com/wp-content/themes/binary-studio/css/home_welcome_anim.css?ver=5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='binary-home-css'  href='https://binary-studio.com/wp-content/themes/binary-studio/css/home.css?ver=5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='wp-block-library-css'  href='https://binary-studio.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4' type='text/css' media='all' />
-<link rel='stylesheet' id='wordpress-popular-posts-css-css'  href='https://binary-studio.com/wp-content/plugins/wordpress-popular-posts/assets/css/wpp.css?ver=5.1.0' type='text/css' media='all' />
-<script type='text/javascript'>
-/* <![CDATA[ */
-var wpp_params = {"sampling_active":"0","sampling_rate":"100","ajax_url":"https:\/\/binary-studio.com\/wp-json\/wordpress-popular-posts\/v1\/popular-posts","ID":"","token":"18d934b03e","debug":""};
-/* ]]> */
-</script>
-<script type='text/javascript' src='https://binary-studio.com/wp-content/plugins/wordpress-popular-posts/assets/js/wpp-5.0.0.min.js?ver=5.1.0'></script>
-<link rel='https://api.w.org/' href='https://binary-studio.com/wp-json/' />
-<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<!-- Dynamic Widgets by QURL loaded - http://www.dynamic-widgets.com //-->
-	<script>
-        
-        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0; t.src=v;s=b.getElementsByTagName(e)[0];try{s.parentNode.insertBefore(t,s)}catch(error){console.warn("fbevent", error)}}(window, document,'script','https://connect.facebook.net/en_US/fbevents.js');fbq('init', '761875580621523'); fbq('track', 'PageView');
-	</script>
-	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=761875580621523&ev=PageView&noscript=1"/></noscript>
-</head>
-
-<body>
-	
-	    <script>
-        // Check that service workers are supported
-        if ('serviceWorker' in navigator) {
-          // Use the window load event to keep the page load performant
-          window.addEventListener('load', () => {
-            navigator.serviceWorker.register('/service-worker.js');
-          });
-        }
-		document.addEventListener('copy', function(evt){
-			if (evt.target.text.indexOf('welcome@binary-studio.com') !== -1){
-				const linkedInImg = document.createElement('img');
-				linkedInImg.setAttribute('src', 'https://px.ads.linkedin.com/collect/?pid=1404873&conversionId=1285241&fmt=gif');
-				document.body.appendChild(linkedInImg);
-				ga('send', 'event', 'E-mail', 'Copied');
-			}
-			if (evt.target.text.indexOf('job@binary-studio.com') !== -1){
-				ga('send', 'event', 'Job email', 'Copied');
-			}
-		});
-	</script>
-<header>
-    <div id="menu-holder">
-        <a href="/" id="logo"><img src="//d3ot0t2g92r1ra.cloudfront.net/img/logo@3x_optimized.svg" alt="Logo"></a>
-        <div id="menu-holder-list">
-            <div id="navigation-holder">
-                <ul id="navigation">
-                    <li><a href="/academy/">ACADEMY</a></li>
-                    <li><a href="/blog">BLOG</a></li>
-                    <li><a href="/careers/">CAREERS</a></li>
-                </ul>
-            </div>
-            <div id="blank-hover-help" class="main-menu-item"></div>
-            <div id="main-menu-holder">
-                <ul id="menu">
-                    <li class="main-menu-item"><span class="empty-link main-menu-item-link">Company</span>
-                        <div class="sub-menu-wrap">
-                            <a href="/about-us/" class="sub-menu-item company-width">
-                                <span class="sub-menu-title">About us</span>
-                                <span class="sub-menu-desc">Boutique agency for custom software development</span>
-                            </a>
-                            <a href="/why-binary/" class="sub-menu-item company-width">
-                                <span class="sub-menu-title">Why Binary Studio</span>
-                                <span class="sub-menu-desc">Key strengths that our customers value the most</span>
-                            </a>
-                            <a href="/meet-the-team/" class="sub-menu-item company-width">
-                                <span class="sub-menu-title">Meet the Team</span>
-                                <span class="sub-menu-desc">Meet the team of our top-notch engineers</span>
-                            </a>
-                        </div>
-                        <span class="arrow-down"></span>
-                    </li>
-                    <li class="main-menu-item"><span class="empty-link main-menu-item-link">How we work</span>
-                        <div class="sub-menu-wrap">
-                            <a href="/dedicated-development-team/" class="sub-menu-item two-item">
-                                <span class="sub-menu-title">Dedicated Development Team</span>
-                                <span class="sub-menu-desc">Work with our outstanding engineers and integrate them into your processes</span>
-                            </a>
-                            <a href="/custom-software-development/" class="sub-menu-item two-item">
-                                <span class="sub-menu-title">Custom Software Development</span>
-                                <span class="sub-menu-desc">Let us transform your concepts into business-ready software solutions</span>
-                            </a>
-                        </div>
-                        <span class="arrow-down"></span>
-                    </li>
-                    <li class="main-menu-item"><span class="empty-link main-menu-item-link">Expertise</span>
-                        <div class="sub-menu-wrap">
-                            <a href="/frontend" class="sub-menu-item tech-width">
-                                <span class="sub-menu-title">Front End</span>
-                                <span class="sub-menu-desc">We build state-of-the-art frontend solutions based on <object><a
-                                        href='/react-development' class="colored-text-underline">React
-                                    </a></object> and <object><a href='/angular-development'
-                                                                 class="colored-text-underline">Angular</a></object></span>
-                            </a>
-                            <a href="/nodejs" class="sub-menu-item tech-width">
-                                <span class="sub-menu-title">Node.js</span>
-                                <span class="sub-menu-desc">We engineer reliable software with Node.js and latest JavaScript frameworks</span>
-                            </a>
-                            <a href="/php" class="sub-menu-item tech-width">
-                                <span class="sub-menu-title">PHP</span>
-                                <span class="sub-menu-desc">We deliver modern client-server apps using <object><a
-                                        href='/laravel-development' class="colored-text-underline">Laravel</a></object> and
-                                        <object><a href="/symfony-development/"
-                                                   class="colored-text-underline">Symfony</a></object> frameworks</span>
-                            </a>
-                            <a href="dotnet" class="sub-menu-item tech-width">
-                                <span class="sub-menu-title">.NET</span>
-                                <span class="sub-menu-desc">We develop complex .NET solutions using a wide range of frameworks and tools</span>
-                            </a>
-                            <a href="/react-native-development" class="sub-menu-item tech-width">
-                                <span class="sub-menu-title">Mobile</span>
-                                <span class="sub-menu-desc">We create cross-platform mobile apps with Xamarin, <object><a
-                                        href='/flutter-development' class="colored-text-underline">Flutter</a></object>, <object><a
-                                        href='/react-native-development' class="colored-text-underline">React Native</a></object>
-                                    </span>
-                            </a>
-                            <a href="/machine-learning-artificial-intelligence/" class="sub-menu-item tech-width">
-                                <span class="sub-menu-title">ML&AI</span>
-                                <span class="sub-menu-desc">We empower tech products with machine learning and artificial intelligence</span>
-                            </a>
-                            <a href="/java-development/" class="sub-menu-item tech-width">
-                                                            <span class="sub-menu-title">Java</span>
-                                                            <span class="sub-menu-desc">We deliver secure, scalable, and cost-efficient software products built with Java and Kotlin.</span>
-                                                        </a>
-                        </div>
-                        <span class="arrow-down"></span>
-                    </li>
-                    <li onclick="window.location.href='/case-studies/'" class="case-study-menu-item pre-last-menu-item main-menu-item">
-                        <a href="/case-studies/" data-fade-off='true' class="main-menu-item-link">Case studies</a></li>
-                    <li onclick="window.location.href='/testimonials/'" class="case-study-menu-item pre-last-menu-item main-menu-item">
-                        <a data-fade-off='true' href="/testimonials/" class="main-menu-item-link">Testimonials</a></li>
-                    <li onclick="window.location.href='/contact-us/'" class="btn" data-fade-off='true'><a
-                            data-fade-off='true' href="/contact-us/" class="main-menu-item-link">Contact us</a></li>
-                </ul>
-            </div>
-        </div>
-        <div id="burger-menu-holder">
-            <div id="menu-closed"><span></span>
-                <span></span>
-                <span></span></div>
-            <div id="menu-opened">&#10005;</div>
-        </div>
-        <div id="main-submenu-wrap">
-            <div class="sub-menu-wrap">
-                <a href="/about-us/" class="sub-menu-item">
-                    <span class="sub-menu-title">About us</span>
-                    <span class="sub-menu-desc">Boutique agency for custom software development</span>
-                </a>
-                <a href="/why-binary-studio/" class="sub-menu-item">
-                    <span class="sub-menu-title">Why Binary Studio?</span>
-                    <span class="sub-menu-desc">Key strengths that our customers value the most</span>
-                </a>
-                <a href="/meet-the-team/" class="sub-menu-item">
-                    <span class="sub-menu-title">Meet the Team</span>
-                    <span class="sub-menu-desc">Meet the team of our top-notch engineers</span>
-                </a>
-            </div>
-            <div class="sub-menu-wrap">
-                <a href="/dedicated-development-team/" class="sub-menu-item two-item">
-                    <span class="sub-menu-title">Dedicated Development Team</span>
-                    <span class="sub-menu-desc">Work with our outstanding engineers and integrate them into your processes</span>
-                </a>
-                <a href="/custom-software-development/" class="sub-menu-item two-item">
-                    <span class="sub-menu-title">Custom Software Development</span>
-                    <span class="sub-menu-desc">Let us transform your concepts into business-ready software solutions</span>
-                </a>
-            </div>
-            <div class="sub-menu-wrap sub-menu-wrap-tech">
-                <a href="/frontend/" class="sub-menu-item title-only">
-                    <div class="menu-item-tech"></div>
-                    <div class="sub-menu-title">Front End</div>
-                </a>
-                <a href="/nodejs/" class="sub-menu-item title-only">
-                    <div class="menu-item-tech"></div>
-                    <div class="sub-menu-title">Node JS</div>
-                </a>
-                <a href="/dotnet/" class="sub-menu-item title-only">
-                    <div class="menu-item-tech"></div>
-                    <div class="sub-menu-title">.NET</div>
-                </a>
-                <a href="/php/" class="sub-menu-item title-only">
-                    <div class="menu-item-tech"></div>
-                    <div class="sub-menu-title">PHP</div>
-                </a>
-                <a href="/ai-ml/" class="sub-menu-item title-only">
-                    <div class="menu-item-tech ai-ml-url"></div>
-                    <div class="sub-menu-title">AI&ML</div>
-                </a>
-            </div>
-        </div>
-    </div>
-</header><div id="pop-up-holder">
-    <div id="pop-up">
-        <span id="pop-up-close">×</span>
-        <script src="//fast.wistia.net/assets/external/E-v1.js" async=""></script>
-    </div>
-</div>
-
-<section id="home-wraper" class="anim-wraper">
-    <section id="always-full-wrap" class="padded-section">
-        <article id="help-spacer" class="help-spacer"></article>
-        <article id="welcome-holder">
-            <h1 id="welcome">
-                <div class="welcome-row-wrap">
-                    <div class="welcome-anim-row">
-                        <div class="welcome-row-out"></div>
-                        <div class="welcome-row-in"></div>
-                    </div>
-                    <div class="welcome-wrap wrap-1">
-                        <div>We</div>
-                        <div id="we-video-call"><img src="//d3ot0t2g92r1ra.cloudfront.net/img/welcome-play.svg" alt=""></div>
-                    </div>
-                    <!--<div class="welcome-wrap">&nbsp;&nbsp;</div>-->
-                    <div class="welcome-wrap wrap-3">
-                        <div>engineer</div>
-                        <div>
-                            <a class="welcome-tech-item" href="/frontend/">
-                                <span class="welcome-tech-item-icon"></span>
-                            </a>
-                            <a class="welcome-tech-item" href="/nodejs/">
-                                <span class="welcome-tech-item-icon"></span>
-                            </a>
-                            <a class="welcome-tech-item" href="/dotnet/">
-                                <span class="welcome-tech-item-icon"></span>
-                            </a>
-                            <a class="welcome-tech-item" href="/php/">
-                                <span class="welcome-tech-item-icon"></span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-                <div class="welcome-row-wrap">
-                    <div class="welcome-anim-row">
-                        <div class="welcome-row-out"></div>
-                        <div class="welcome-row-in"></div>
-                    </div>
-                    <div id="clutchLink" class="welcome-wrap wrap-2">
-                        <div class="fkborder">world-class software </div>
-                        <div id="clutch-open">
-                            <p>EXCEPTIONAL</p>
-                            <div>
-                                <img src="//d3ot0t2g92r1ra.cloudfront.net/img/star.svg" alt="">
-                                <img src="//d3ot0t2g92r1ra.cloudfront.net/img/star.svg" alt="">
-                                <img src="//d3ot0t2g92r1ra.cloudfront.net/img/star.svg" alt="">
-                                <img src="//d3ot0t2g92r1ra.cloudfront.net/img/star.svg" alt="">
-                                <img src="//d3ot0t2g92r1ra.cloudfront.net/img/star.svg" alt="">
-                            </div>
-                            <p>4.9/5 BY CLUTCH.CO</p></div>
-                    </div>
-                </div>
-                <div class="welcome-row-wrap">
-                    <div class="welcome-anim-row">
-                        <div class="welcome-row-out"></div>
-                        <div class="welcome-row-in"></div>
-                    </div>
-                    <div class="welcome-wrap wrap-4">
-                        <div>for SMBs</div>
-                        <div>
-                            <a id="case-studies-open-link" href="/case-studies/">
-                                <span>50+</span>
-                                <span>DELIVERED <br> PROJECTS</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </h1>
-        </article>
-        <article class="info-title-holder ">
-            <div class="info-title row">
-                <span class="title col-md-7 col-sm-7 col-xs-4 col-es-12">OUR SERVICES</span>
-                <p class="info col-md-5 col-lg-5 col-sm-5 col-xs-8 col-es-12">
-                    Binary Studio leverages exceptional Ukrainian engineering talent to digitalize small and medium businesses.
-                </p>
-            </div>
-        </article>
-    </section>
-</section>
-<script>
-    var mainContent = document.getElementById('home-wraper');
-    var div = document.createElement('div');
-
-    var xhr = typeof XMLHttpRequest !== 'undefined' ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
-    xhr.open('get', '/wp-content/themes/binary-studio/page-templates/critical-rendering/index-rendering-public.html', true);
-
-    xhr.onreadystatechange = function () {
-        if (xhr.readyState === 4 && xhr.status === 200) {
-            div.innerHTML = xhr.responseText;
-        }
-    };
-    xhr.send();
-
-    window.addEventListener('load', function () {
-        var mainScript = document.createElement("script");
-        mainScript.type = "text/javascript";
-        mainScript.src = "/wp-content/themes/binary-studio/js/main.js";
-
-        var videoScript = document.createElement("script");
-        videoScript.type = "text/javascript";
-        videoScript.src = "/wp-content/themes/binary-studio/js/videoplayer.js";
-
-        var countersAnimationScript = document.createElement("script");
-        countersAnimationScript.setAttribute('page', 'index');
-        countersAnimationScript.type = "text/javascript";
-        countersAnimationScript.src = "/wp-content/themes/binary-studio/js/counters_animation.js";
-
-        setTimeout(function () {
-            mainContent.appendChild(div);
-            mainContent.appendChild(mainScript);
-            mainContent.appendChild(countersAnimationScript);
-        }, 400);
-
-        setTimeout(function () {
-            mainContent.appendChild(videoScript);
-        }, 3000);
-    });
-</script>
-<article class="quote-holder full-width-section">
-    <div id="quote">
-        <h2 class="H2">Start your project with us!</h2>
-        <p class="paragraph-font">Our engineers are ready to help you.<br> Contact us now and we will answer you today.</p>
-        <div class="btn btn-lg">Get in touch</div>
-    </div>
-</article>
-
-<script src="https://binary-studio.com/wp-content/themes/binary-studio/js/aos_plus_header.js"></script>
-
-
-<footer>
-    <article class="info-title-holder">
-        <div class="info-title row">
-            <div class="title col-md-5 col-sm-3 col-xs-12 col-es-12">CONTACTS</div>
-            <div id="map-holder" class='col-md-7 col-sm-9 col-xs-12 col-es-12'>
-                <div class="info-title row">
-                    <div class="contacts-info"><b>Headquarters</b>
-                        <br> Chornovola Ave,
-                        <br> Lviv, Ukraine
-                    </div>
-                    <div class="contacts-info"><b>Development Center</b>
-                        <br> Klovskyi Uzviz,
-                        <br> Kyiv, Ukraine
-                    </div>
-                    <div class="contacts-info"><b>International Office</b>
-                        <br> St. Cross Road,
-                        <br> Winchester, United Kingdom
-                    </div>
-                </div>
-            </div>
-        </div>
-    </article>
-    <article id="footer-desc">
-        <div id="pre-footer" class='row'>
-            <div class="pre-footer-item col-sm-4 col-es-12 col-md-2">
-                <span class="pre-footer-title">COMPANY</span>
-                <ul class="pre-footer-list">
-                    <li><a href="/about-us/">About us</a></li>
-                    <li><a href="/why-binary-studio/">Why Binary Studio</a></li>
-                    <li><a href="/meet-the-team/">Meet the Team</a></li>
-                </ul>
-            </div>
-            <div class="pre-footer-item col-sm-8 col-es-12 col-md-3">
-                <span class="pre-footer-title">SERVICES</span>
-                <ul class="pre-footer-list pre-footer-services">
-                    <li><a href="/dedicated-development-team/">Dedicated Development Teams</a></li>
-                    <li><a href="/custom-software-development/">Custom Software Development</a></li>
-                </ul>
-            </div>
-            <div class="pre-footer-item col-sm-4 col-es-12 col-md-2">
-                <span class="pre-footer-title">SUCCESS STORIES</span>
-                <ul class="pre-footer-list">
-                    <li><a href="/case-studies/">Case Studies</a></li>
-                    <li><a href="/testimonials/">Testimonials</a></li>
-                </ul>
-            </div>
-            <div class="pre-footer-item col-sm-8 col-es-12 col-md-4">
-                <span class="pre-footer-title">TECHNOLOGIES</span>
-                <div class="row pre-footer-tech-wrap row">
-                    <ul class="pre-footer-list col-es-4 col-sm-3 col-md-4">
-                        <li><a href="/frontend/">Front End</a></li>
-                        <li><a href="/react-development">React</a></li>
-                        <li><a href="/angular-development">Angular</a></li>
-                        <li><a href="/nodejs/">Node.js</a></li>
-                    </ul>
-                    <ul class="pre-footer-list col-es-4 col-sm-3 col-md-4">
-                        <li><a href="/php/">PHP</a></li>
-                        <li><a href="/laravel-development">Laravel</a></li>
-                        <li><a href="/symfony-development">Symfony</a></li>
-                        <li><a href="/dotnet">.NET</a></li>
-                    </ul>
-                    <ul class="pre-footer-list col-es-4 col-sm-3 col-md-4">
-                        <li><a href="/java-development/">Java</a></li>
-                        <li><a href="/flutter-development">Flutter</a></li>
-                        <li><a href="/react-native-development">React Native</a></li>
-                        <li><a href="/machine-learning-artificial-intelligence">ML&AI</a></li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-        <div id="post-footer">
-            <div id="post-footer-sub">
-                <ul>
-                    <li><a href="/academy/">ACADEMY</a></li>
-                    <li><a href="/blog/">BLOG</a></li>
-                    <li><a href="/careers/">CAREERS</a></li>
-                </ul>
-            </div>
-            <div id="post-footer-copy">
-                <p>&#169; 2005-2021 Binary-Studio, All rights reserved <br> <a href="/privacy-policy">Privacy policy</a></p>
-            </div>
-            <div id="post-footer-social">
-                <a href="https://www.youtube.com/user/BinaryStudo/" target="_blank" rel="noopener noreferrer">
-                    <img src="//d3ot0t2g92r1ra.cloudfront.net/img/youtube.svg" alt="youtube"/>
-                </a>
-                <a href="https://www.facebook.com/Binary.Studio.Company/" target="_blank" rel="noopener noreferrer">
-                    <img src="//d3ot0t2g92r1ra.cloudfront.net/img/facebook.svg" alt="facebook">
-                </a>
-                <a href="https://github.com/B1naryStudio" target="_blank" rel="noopener noreferrer">
-                    <img src="//d3ot0t2g92r1ra.cloudfront.net/img/github.svg" alt="github">
-                </a>
-                <a href="https://linkedin.com/company/binary-studio_241166" target="_blank" rel="noopener noreferrer">
-                    <img src="//d3ot0t2g92r1ra.cloudfront.net/img/linkedin.svg" alt="linkedin"/>
-                </a>
-                <a href="https://www.goodfirms.co/companies/view/9463/binary-studio-ltd" target="_blank" rel="noopener noreferrer">
-                    <img src="//d3ot0t2g92r1ra.cloudfront.net/img/goodfirms.svg" style="height:20px;margin-bottom:2px"
-                         alt="GoodFirms Badge">
-                </a>
-            </div>
-        </div>
-    </article>
-</footer>
-        <script type="text/javascript">
-            (function(){
-                document.addEventListener('DOMContentLoaded', function(){
-                    let wpp_widgets = document.querySelectorAll('.popular-posts-sr');
-
-                    if ( wpp_widgets ) {
-                        for (let i = 0; i < wpp_widgets.length; i++) {
-                            let wpp_widget = wpp_widgets[i];
-                            WordPressPopularPosts.theme(wpp_widget);
-                        }
-                    }
-                });
-            })();
-        </script>
-                <script>
-            var WPPImageObserver = null;
-
-            function wpp_load_img(img) {
-                if ( ! 'imgSrc' in img.dataset || ! img.dataset.imgSrc )
-                    return;
-
-                img.src = img.dataset.imgSrc;
-
-                if ( 'imgSrcset' in img.dataset ) {
-                    img.srcset = img.dataset.imgSrcset;
-                    img.removeAttribute('data-img-srcset');
-                }
-
-                img.classList.remove('wpp-lazyload');
-                img.removeAttribute('data-img-src');
-                img.classList.add('wpp-lazyloaded');
-            }
-
-            function wpp_observe_imgs(){
-                let wpp_images = document.querySelectorAll('img.wpp-lazyload'),
-                    wpp_widgets = document.querySelectorAll('.popular-posts-sr');
-
-                if ( wpp_images.length || wpp_widgets.length ) {
-                    if ( 'IntersectionObserver' in window ) {
-                        WPPImageObserver = new IntersectionObserver(function(entries, observer) {
-                            entries.forEach(function(entry) {
-                                if (entry.isIntersecting) {
-                                    let img = entry.target;
-                                    wpp_load_img(img);
-                                    WPPImageObserver.unobserve(img);
-                                }
-                            });
-                        });
-
-                        if ( wpp_images.length ) {
-                            wpp_images.forEach(function(image) {
-                                WPPImageObserver.observe(image);
-                            });
-                        }
-
-                        if ( wpp_widgets.length ) {
-                            for (var i = 0; i < wpp_widgets.length; i++) {
-                                let wpp_widget_images = wpp_widgets[i].querySelectorAll('img.wpp-lazyload');
-
-                                if ( ! wpp_widget_images.length && wpp_widgets[i].shadowRoot ) {
-                                    wpp_widget_images = wpp_widgets[i].shadowRoot.querySelectorAll('img.wpp-lazyload');
-                                }
-
-                                if ( wpp_widget_images.length ) {
-                                    wpp_widget_images.forEach(function(image) {
-                                        WPPImageObserver.observe(image);
-                                    });
-                                }
-                            }
-                        }
-                    } /** Fallback for older browsers */
-                    else {
-                        if ( wpp_images.length ) {
-                            for (var i = 0; i < wpp_images.length; i++) {
-                                wpp_load_img(wpp_images[i]);
-                                wpp_images[i].classList.remove('wpp-lazyloaded');
-                            }
-                        }
-
-                        if ( wpp_widgets.length ) {
-                            for (var j = 0; j < wpp_widgets.length; j++) {
-                                let wpp_widget = wpp_widgets[j],
-                                    wpp_widget_images = wpp_widget.querySelectorAll('img.wpp-lazyload');
-
-                                if ( ! wpp_widget_images.length && wpp_widget.shadowRoot ) {
-                                    wpp_widget_images = wpp_widget.shadowRoot.querySelectorAll('img.wpp-lazyload');
-                                }
-
-                                if ( wpp_widget_images.length ) {
-                                    for (var k = 0; k < wpp_widget_images.length; k++) {
-                                        wpp_load_img(wpp_widget_images[k]);
-                                        wpp_widget_images[k].classList.remove('wpp-lazyloaded');
-                                    }
-                                }
-                            }
-                        }
-                    }
-                }
-            }
-
-            document.addEventListener('DOMContentLoaded', function() {
-                wpp_observe_imgs();
-
-                // When an ajaxified WPP widget loads,
-                // Lazy load its images
-                document.addEventListener('wpp-onload', function(){
-                    wpp_observe_imgs();
-                });
-            });
-        </script>
-        <script type="text/javascript">
-_linkedin_partner_id = "1404873";
-window._linkedin_data_partner_ids = window._linkedin_data_partner_ids || [];
-window._linkedin_data_partner_ids.push(_linkedin_partner_id);
-</script><script type="text/javascript">
-(function(){var s = document.getElementsByTagName("script")[0];
-var b = document.createElement("script");
-b.type = "text/javascript";b.async = true;
-b.src = "https://snap.licdn.com/li.lms-analytics/insight.min.js";
-s.parentNode.insertBefore(b, s);})();
-</script>
-<noscript>
-<img height="1" width="1" style="display:none;" alt="" src="https://px.ads.linkedin.com/collect/?pid=1404873&fmt=gif" />
-</noscript>
-
-</body>
-</html>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Page Caching using disk: enhanced (DONOTCACHEPAGE constant is defined) 
-Minified using disk
-Database Caching 2/39 queries in 0.025 seconds using disk (Request-wide modification query)
-
-Served from: localhost @ 2021-04-24 08:53:12 by W3 Total Cache
--->
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.google.com/schemas/sitemap/0.84">
+  <sitemap>
+    <loc>https://www.google.com/gmail/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/forms/sitemaps.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/slides/sitemaps.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/sheets/sitemaps.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/drive/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/docs/sitemaps.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/get/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/flights/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/admob/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/business/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/services/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/partners/about/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/adwords/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/search/about/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/adsense/start/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/retail/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/sitemap_search.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/webmasters/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/chromebook/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/chrome/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/calendar/about/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/photos/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/nonprofits/sitemap.xml</loc>
+  </sitemap>
+  <sitemap>
+    <loc>https://www.google.com/finance/sitemap.xml</loc>
+  </sitemap>
+</sitemapindex>
