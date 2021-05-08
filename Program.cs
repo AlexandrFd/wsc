@@ -5,6 +5,7 @@ using System.IO;
 using System.Net.NetworkInformation;
 using System.Diagnostics;
 using System.Linq;
+using System.Text;
 
 namespace WebSiteChecker
 {
@@ -24,6 +25,8 @@ namespace WebSiteChecker
             obj.Urls = new List<string>();
             obj.UrlsSM = new List<string>();
             obj.UrlList = new List<CUrl>();
+
+            Console.OutputEncoding = Encoding.UTF8;
 
             Console.Write("Введите адрес сайта: ");
             obj.UserUrl = Console.ReadLine();
